@@ -6,7 +6,11 @@
 
 In 2015, one team with passion and creation that launched from Kaohsiung city, Taiwan had successfully published a easiest way by the web-based technology for Arduino development, called "Webduino". With Web Components from Webduino, everyone can easily use and control much type of sensors by using pure HTML and JavaScript.  It's really a whole new and powerful development way for the mass developers and web designers.
 
-Website: [https://webduino.io](](https://webduino.io))
+>- Official website: [https://webduino.io](https://webduino.io)
+- Online editing tool: [http://blockly.webduino.io/](http://blockly.webduino.io/)
+- Youtube: [https://goo.gl/JK7ltG](https://goo.gl/JK7ltG)
+- Github: [https://github.com/webduinoio](https://github.com/webduinoio)
+- Facebook: [https://www.facebook.com/webduino](https://www.facebook.com/webduino)
 
 <br/>
 
@@ -32,7 +36,7 @@ In the future, there will be much manifold type of users in the IoT application 
 
 - **Powerfull Online Tool**
 
-	Webduino Blockly will help developers to generate standard and executable codes quickly and easily.( [http://blockly.webduino.io/](http://blockly.webduino.io/) )
+	Webduino Blockly will help developers to generate standard and executable codes quickly and easily. ( [http://blockly.webduino.io/](http://blockly.webduino.io/) )
 
 - **Regular Local Events**
 
