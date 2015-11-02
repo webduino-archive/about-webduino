@@ -36,6 +36,8 @@ In the future, there will be much manifold type of users in the IoT application 
 
 	We have regular local events and training course monthly in order to build a better platform for community from different areas.
 
+![webduino-blockly](img/blockly.jpg)
+
 <br/>
 
 ##Compare Webduino and Arduino developing ways:
