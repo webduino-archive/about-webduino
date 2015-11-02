@@ -1,3 +1,5 @@
+![about webduino](img/banner1.jpg)
+
 #About Webduino
 
 ##Webduino is the easiest way for starting IoT!
